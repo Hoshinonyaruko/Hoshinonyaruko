@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 我是早苗狐
 
-<!--
-**Hoshinonyaruko/Hoshinonyaruko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我非常喜欢对话机器人！我致力于开发受广大用户所喜爱的对话式机器人,探索各种应用在机器人形态的广袤可能性,代表作是早苗机器人和Gensokyo跨平台机器人框架.
 
-Here are some ideas to get you started:
+我将会保持终生学习，对机器人应用进行持续的开发和探索.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的b站主页，[早苗狐的主页](https://space.bilibili.com/3191529)
+
+我的作品文档，[语雀-早苗狐专栏](https://www.yuque.com/km57bt/hlhnxg)
+
+我的QQ [2022717137](https://qm.qq.com/q/quIGbRTjSE)
+
+我的交流群[点击加入](https://qm.qq.com/cgi-bin/qm/qr?k=r-XySGOdId72FMlSFEQWmIlJ6170galS&jump_from=webapi&authKey=PQ3IZQrxGqTUvFr289bWe2cLFGnRZqBKVeNeEtH2YAk4VvMgvJ9cxOfRY4qfGy8e)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shigma)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shigma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
