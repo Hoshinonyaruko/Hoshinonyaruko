@@ -12,6 +12,6 @@
 
 我的交流群[点击加入](https://qm.qq.com/cgi-bin/qm/qr?k=r-XySGOdId72FMlSFEQWmIlJ6170galS&jump_from=webapi&authKey=PQ3IZQrxGqTUvFr289bWe2cLFGnRZqBKVeNeEtH2YAk4VvMgvJ9cxOfRY4qfGy8e)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shigma)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshinonyaruko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shigma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinonyaruko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
